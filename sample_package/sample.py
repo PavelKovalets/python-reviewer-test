@@ -8,3 +8,4 @@ def some_strange_func():
     print(f.readlines())
 
 
+    print("Some other code")
