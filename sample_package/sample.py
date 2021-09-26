@@ -9,3 +9,4 @@ def some_strange_func():
 
 
     print("Some other code")
+    print("Some other code")
