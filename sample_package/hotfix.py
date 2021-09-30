@@ -1,7 +1,5 @@
 
-
-
-def some_strange_func():
+def shitty_code():
     print("Hello")
 
     f = open('no-file', 'r')
